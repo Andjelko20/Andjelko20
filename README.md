@@ -37,12 +37,13 @@ Here are some ideas to get you started:
  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=F7DF1E&label=)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
+ ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=189E98&logo=Android&logoColor=3DDC84&label=)
 
  
  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
  ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FA052B&label=)
  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)
+ ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
  
 <div align="center">
