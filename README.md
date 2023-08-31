@@ -53,8 +53,8 @@ Here are some ideas to get you started:
  
  [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Andjelko20&langs_count=6&show_icons=true&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
- ![Nikola's GitHub stats](https://readmestats.999857.xyz/api?username=Andjelko20&show_icons=true&theme=radical)
+ ![Andjelko20's GitHub stats](https://readmestats.999857.xyz/api?username=Andjelko20&show_icons=true&theme=radical)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=N1ko1a&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andjelko20&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
  
