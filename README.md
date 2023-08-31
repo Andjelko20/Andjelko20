@@ -42,7 +42,8 @@ Here are some ideas to get you started:
  
  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
  ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FA052B&label=)
- ![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)
+ ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)
+
  
 <div align="center">
  
