@@ -1,7 +1,7 @@
 
 
 <!--
-**N1ko1a/N1ko1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Andjelko20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
  
 
  
- [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=N1ko1a&langs_count=6&show_icons=true&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Andjelko20&langs_count=6&show_icons=true&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
- ![Nikola's GitHub stats](https://readmestats.999857.xyz/api?username=N1ko1a&show_icons=true&theme=radical)
+ ![Nikola's GitHub stats](https://readmestats.999857.xyz/api?username=Andjelko20&show_icons=true&theme=radical)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=N1ko1a&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
