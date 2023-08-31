@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-![](https://github.com/N1ko1a/N1ko1a/blob/main/banner.png)   
+![](https://github.com/Andjelko20/Andjelko20/blob/main/banner.png)   
 
  ## 💼 Technical Skills
 
