@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=21C945&label=)
  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=F7DF1E&label=)
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=5F1ECF)
  ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=189E98&logo=Android&logoColor=3DDC84&label=)
 
  
