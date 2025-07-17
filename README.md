@@ -34,10 +34,11 @@ Here are some ideas to get you started:
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=51CF1E&logo=React&logoColor=F7DF1E&label=)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=5F1ECF)
  ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=189E98&logo=Android&logoColor=3DDC84&label=)
- ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
  ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
+ ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=fastapi&logoColor=FFFFFF&label=)
+ ![AI](https://img.shields.io/static/v1?style=for-the-badge&message=AI&color=000000&logo=Artificial-Intelligence&logoColor=FFFFFF&label=)
 
- 
+ ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
  ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FA052B&label=)
  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)
