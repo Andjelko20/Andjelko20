@@ -23,12 +23,9 @@ Here are some ideas to get you started:
 
 
  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
- ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
  ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=1D0446&label=)
  ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=0095D5&logo=Kotlin&logoColor=2C57D5&label=)
  ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=1A3DA2&label=)
- ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=189E98&label=)
-
  ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
  ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=C%20Sharp&logoColor=FFFFFF&label=)
  ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=EF7C16&label=)
@@ -37,6 +34,8 @@ Here are some ideas to get you started:
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=51CF1E&logo=React&logoColor=F7DF1E&label=)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=5F1ECF)
  ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=189E98&logo=Android&logoColor=3DDC84&label=)
+ ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+ ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 
  
  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
